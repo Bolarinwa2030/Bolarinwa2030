@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Projects <br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Terraform, Kubernetes and other DevOps Tools<br>💬 Ask me about +2349056865786<br>⚡ Fun fact
+🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Projects <br>🤝 I’m looking for role in DevOps<br>🌱 I’m currently learning Terraform, Kubernetes and other DevOps Tools<br>💬 Ask me about +2349056865786<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
