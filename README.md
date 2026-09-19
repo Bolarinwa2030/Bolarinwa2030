@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Projects <br>🤝 I’m looking for role in DevOps<br>🌱 I’m currently learning Terraform, Kubernetes and other DevOps Tools<br>💬 Ask me about +2349056865786<br>⚡ Fun fact
+- 🔭 I'm currently working on **personal DevOps projects**
+- 👯 I'm looking to collaborate on **open-source DevOps/Infrastructure projects**
+- 🤝 I'm looking for a **role in DevOps**
+- 🌱 I'm currently learning **Terraform, Kubernetes, and other DevOps tools**
+- 💬 Ask me about **CI/CD, Docker, Terraform, or Linux systems administration**
+- ⚡ Fun fact: **[add something about you here]**
+- 📫 How to reach me: **[[www.LinkedIn/in/gbolahan-habeeb-bolarinwa](https://linkedin.com/in/Gbolahan Habeeb Bolarinwa) / bolarinwagh@gmail.com / https://www.bolarinwaporfolio.vercel.app]**
 
 
 ## 🌐 Socials:
